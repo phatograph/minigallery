@@ -1,0 +1,74 @@
+/* line 1, ../sass/reset.sass */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  vertical-align: baseline;
+}
+
+/* line 9, ../sass/reset.sass */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 13, ../sass/reset.sass */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+}
+
+/* line 17, ../sass/reset.sass */
+table, td, th {
+  vertical-align: top;
+  padding: 0;
+  margin: 0;
+}
+
+/* line 22, ../sass/reset.sass */
+blockquote:before, blockquote:after, q:before, q:after {
+  content: "";
+}
+
+/* line 25, ../sass/reset.sass */
+blockquote, q {
+  quotes: "" "";
+}
+
+/* line 28, ../sass/reset.sass */
+.clearall {
+  clear: both;
+  font-size: 0;
+  line-height: 0;
+  height: 0;
+}
+
+/* line 34, ../sass/reset.sass */
+.clearfix {
+  display: inline-table;
+  height: 1%;
+  display: block;
+  zoom: 1;
+}
+
+/* line 40, ../sass/reset.sass */
+html > body .clearfix {
+  height: auto;
+}
+
+/* line 43, ../sass/reset.sass */
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+/* line 50, ../sass/reset.sass */
+.clearflow {
+  overflow: hidden;
+  zoom: 1;
+}
