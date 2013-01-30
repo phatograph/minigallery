@@ -17,3 +17,5 @@ $('#miniGallery').miniGallery({
   easeIn: 'easeInQuint' // type of incoming images animation
 });
 ```
+
+Enjoy!
