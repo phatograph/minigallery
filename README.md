@@ -1,6 +1,6 @@
 # Mini Gallery
 
-Mini Gallery is a replica of Apple.com's [products navigation panel](http://www.apple.com/mac/). You can see a demo [here](http://phatograph.github.com/minigallery/).
+Mini Gallery is a replica of Apple.com's [products navigation panel](http://www.apple.com/mac/). You can see a demo [here](http://phatograph.github.io/minigallery/).
 
 Usage and default values:
 
